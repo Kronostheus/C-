@@ -17,7 +17,7 @@
 // What used to struggle past 200M now has, at least, been tested to 10B
 // Considering data type used "unsigned long int", it's theoretically possible
 // to achieve primes up to 18,446,744,073,709,551,615 although machine constraints are 
-// more than likely
+// more than likely.
 
 #include <iostream>
 #include <vector>
