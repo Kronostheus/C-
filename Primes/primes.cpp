@@ -1,3 +1,5 @@
+/*** DO NOT USE! SEE PRIMO INSTEAD! ****/
+
 // Utilize Sieve of Eratosthenes' pseudocode to find all primes up to a certain inputted value
 // Should output to a file with each number
 //
@@ -11,9 +13,7 @@
 //			for j = i², i²+i, i²+2i, ..., not exceeding n:
 //				A[j] := false.
 //
-// Output: all i such that A[i] is true
-//
-// MAX RECORDED: 200000000
+// Output: all i such that A[i] is truE
 
 #include <iostream>
 #include <utility>
